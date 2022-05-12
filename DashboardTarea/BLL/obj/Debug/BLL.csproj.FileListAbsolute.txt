@@ -1,0 +1,24 @@
+C:\Users\yeray\source\repos\DashboardTarea\BLL\bin\Debug\BLL.dll
+C:\Users\yeray\source\repos\DashboardTarea\BLL\bin\Debug\BLL.pdb
+C:\Users\yeray\source\repos\DashboardTarea\BLL\bin\Debug\DAL_SQLServer.dll
+C:\Users\yeray\source\repos\DashboardTarea\BLL\bin\Debug\Utilidades.dll
+C:\Users\yeray\source\repos\DashboardTarea\BLL\bin\Debug\DAL_SQLServer.pdb
+C:\Users\yeray\source\repos\DashboardTarea\BLL\bin\Debug\DAL_SQLServer.dll.config
+C:\Users\yeray\source\repos\DashboardTarea\BLL\bin\Debug\Utilidades.pdb
+C:\Users\yeray\source\repos\DashboardTarea\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\yeray\source\repos\DashboardTarea\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\yeray\source\repos\DashboardTarea\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\yeray\source\repos\DashboardTarea\BLL\obj\Debug\BLL.dll
+C:\Users\yeray\source\repos\DashboardTarea\BLL\obj\Debug\BLL.pdb
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\BLL\bin\Debug\BLL.dll
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\BLL\bin\Debug\BLL.pdb
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\BLL\bin\Debug\DAL_SQLServer.dll
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\BLL\bin\Debug\Utilidades.dll
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\BLL\bin\Debug\DAL_SQLServer.pdb
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\BLL\bin\Debug\DAL_SQLServer.dll.config
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\BLL\bin\Debug\Utilidades.pdb
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\BLL\obj\Debug\BLL.dll
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\BLL\obj\Debug\BLL.pdb

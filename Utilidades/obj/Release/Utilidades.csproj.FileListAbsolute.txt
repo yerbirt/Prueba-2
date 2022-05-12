@@ -1,0 +1,6 @@
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD6\Wizard\DashboardTarea\Utilidades\bin\Release\Utilidades.dll
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD6\Wizard\DashboardTarea\Utilidades\bin\Release\Utilidades.pdb
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD6\Wizard\DashboardTarea\Utilidades\obj\Release\Utilidades.csproj.AssemblyReference.cache
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD6\Wizard\DashboardTarea\Utilidades\obj\Release\Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD6\Wizard\DashboardTarea\Utilidades\obj\Release\Utilidades.dll
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD6\Wizard\DashboardTarea\Utilidades\obj\Release\Utilidades.pdb
