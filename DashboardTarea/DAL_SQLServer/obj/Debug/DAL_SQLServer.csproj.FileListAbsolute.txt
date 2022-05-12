@@ -1,0 +1,142 @@
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\DAL_SQLServer.dll.config
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\DAL_SQLServer.dll
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\DAL_SQLServer.pdb
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\Azure.Core.dll
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\Azure.Identity.dll
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\System.Buffers.dll
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\System.Memory.dll
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\System.Security.AccessControl.dll
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\System.Security.Permissions.dll
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\System.Text.Json.dll
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\System.ValueTuple.dll
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\Utilidades.dll
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\Utilidades.pdb
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\Azure.Core.xml
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\Azure.Identity.xml
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\System.Buffers.xml
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\System.Memory.xml
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\System.Security.AccessControl.xml
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\System.Security.Permissions.xml
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\System.Text.Json.xml
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\System.ValueTuple.xml
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\obj\Debug\DAL_SQLServer.csproj.AssemblyReference.cache
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\obj\Debug\DAL_SQLServer.csproj.CoreCompileInputs.cache
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\obj\Debug\DAL_SQLServer.dll
+C:\Users\yeray\source\repos\DashboardTarea\DAL_SQLServer\obj\Debug\DAL_SQLServer.pdb
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\DAL_SQLServer.dll.config
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\DAL_SQLServer.dll
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\DAL_SQLServer.pdb
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\Azure.Core.dll
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\Azure.Identity.dll
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\System.Buffers.dll
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\System.Memory.dll
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\System.Security.AccessControl.dll
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\System.Security.Permissions.dll
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\System.Text.Json.dll
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\System.ValueTuple.dll
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\Utilidades.dll
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\Utilidades.pdb
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\Azure.Core.xml
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\Azure.Identity.xml
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\System.Buffers.xml
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\System.Memory.xml
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\System.Security.AccessControl.xml
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\System.Security.Permissions.xml
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\System.Text.Json.xml
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\System.ValueTuple.xml
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\obj\Debug\DAL_SQLServer.csproj.AssemblyReference.cache
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\obj\Debug\DAL_SQLServer.csproj.CoreCompileInputs.cache
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\obj\Debug\DAL_SQLServer.dll
+C:\Users\yeray\Desktop\Modulo 2\Desarrollo de interfaces\UD4\DashboardTarea\DAL_SQLServer\obj\Debug\DAL_SQLServer.pdb

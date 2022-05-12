@@ -1,0 +1,6 @@
+C:\Users\yeray\source\repos\DashboardTarea\Utilidades\bin\Debug\Utilidades.dll
+C:\Users\yeray\source\repos\DashboardTarea\Utilidades\bin\Debug\Utilidades.pdb
+C:\Users\yeray\source\repos\DashboardTarea\Utilidades\obj\Debug\Utilidades.csproj.AssemblyReference.cache
+C:\Users\yeray\source\repos\DashboardTarea\Utilidades\obj\Debug\Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\yeray\source\repos\DashboardTarea\Utilidades\obj\Debug\Utilidades.dll
+C:\Users\yeray\source\repos\DashboardTarea\Utilidades\obj\Debug\Utilidades.pdb
